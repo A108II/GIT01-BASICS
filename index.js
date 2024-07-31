@@ -1,3 +1,3 @@
-const version1 = 'Version1';
-console.log(version1);
+const version2 = 'Version2';
+console.log(version2);
 
